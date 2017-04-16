@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DivisasREST</string>
+
+    <string-array name="divisas">
+        <item>Seleccionar --></item>
+        <item>Euro (EUR)</item>
+        <item>Dólar estadounidense (USD)</item>
+        <item>Libra esterlina (GBP)</item>
+        <item>Dólar australiano (AUD)</item>
+        <item>Rupia india (INR)</item>
+    </string-array>
+</resources>
